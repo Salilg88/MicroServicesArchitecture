@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zn6sgjWLu2wkO4jaMKyjBpn+tHNRb3k3wqSLpEm9kUviOxD6chptR9sCvqLRGPuwT0E5+n2QCkrTFV16Tfcc4g==",
+  "success": true,
+  "projectFilePath": "D:\\MicroServicesArchitecture\\FaceAPITest\\FaceAPITest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
