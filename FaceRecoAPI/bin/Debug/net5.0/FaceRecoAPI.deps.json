@@ -28,8 +28,6 @@
           "Microsoft.AspNetCore.Authentication.JwtBearer": "5.0.1",
           "Microsoft.AspNetCore.Authentication.OpenIdConnect": "5.0.1",
           "OpenCvSharp4": "4.5.1.20201226",
-          "OpenCvSharp4.Windows": "4.5.1.20201226",
-          "OpenCvSharp4.WpfExtensions": "4.5.1.20201226",
           "OpenCvSharp4.runtime.win": "4.5.1.20201226",
           "Swashbuckle.AspNetCore": "5.6.3",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
@@ -489,27 +487,6 @@
             "assetType": "native",
             "fileVersion": "2020.9.0.0"
           }
-        }
-      },
-      "OpenCvSharp4.Windows/4.5.1.20201226": {
-        "dependencies": {
-          "OpenCvSharp4": "4.5.1.20201226",
-          "OpenCvSharp4.WpfExtensions": "4.5.1.20201226",
-          "OpenCvSharp4.runtime.win": "4.5.1.20201226"
-        }
-      },
-      "OpenCvSharp4.WpfExtensions/4.5.1.20201226": {
-        "dependencies": {
-          "OpenCvSharp4": "4.5.1.20201226"
-        },
-        "runtime": {
-          "lib/netcoreapp3.1/OpenCvSharp.WpfExtensions.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        },
-        "compile": {
-          "lib/netcoreapp3.1/OpenCvSharp.WpfExtensions.dll": {}
         }
       },
       "Swashbuckle.AspNetCore/5.6.3": {
@@ -2389,20 +2366,6 @@
       "sha512": "sha512-VPhq3/kvoQN5Qr5VDjcfLSb21060CHNC/YQejOdR17JnGb5hXD9V26AzyFJrGCZAQIgiXbumdE1bU2FwggtATQ==",
       "path": "opencvsharp4.runtime.win/4.5.1.20201226",
       "hashPath": "opencvsharp4.runtime.win.4.5.1.20201226.nupkg.sha512"
-    },
-    "OpenCvSharp4.Windows/4.5.1.20201226": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-P2xaSOzGNhfUaqCj3CchWQN8kMmL+f2zXRFTRoNsKAlMJVyW/mpPV5l6z2p4ixFnGJfzmb9Xd9g/lu5dTzmDmw==",
-      "path": "opencvsharp4.windows/4.5.1.20201226",
-      "hashPath": "opencvsharp4.windows.4.5.1.20201226.nupkg.sha512"
-    },
-    "OpenCvSharp4.WpfExtensions/4.5.1.20201226": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-6BphMYieUEQF4mRikIMEwWTX3jhx9vslG9lIKBD5IzLfG5HnJLzrf3olnC0q9FMR6T8z1vSSGqGMYaVPscAVtQ==",
-      "path": "opencvsharp4.wpfextensions/4.5.1.20201226",
-      "hashPath": "opencvsharp4.wpfextensions.4.5.1.20201226.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore/5.6.3": {
       "type": "package",

@@ -191,26 +191,6 @@
           }
         }
       },
-      "OpenCvSharp4.Windows/4.5.1.20201226": {
-        "type": "package",
-        "dependencies": {
-          "OpenCvSharp4": "4.5.1.20201226-beta",
-          "OpenCvSharp4.WpfExtensions": "4.5.1.20201226-beta",
-          "OpenCvSharp4.runtime.win": "4.5.1.20201226-beta"
-        }
-      },
-      "OpenCvSharp4.WpfExtensions/4.5.1.20201226": {
-        "type": "package",
-        "dependencies": {
-          "OpenCvSharp4": "4.5.1.20201226-beta"
-        },
-        "compile": {
-          "lib/netcoreapp3.1/OpenCvSharp.WpfExtensions.dll": {}
-        },
-        "runtime": {
-          "lib/netcoreapp3.1/OpenCvSharp.WpfExtensions.dll": {}
-        }
-      },
       "Swashbuckle.AspNetCore/5.6.3": {
         "type": "package",
         "dependencies": {
@@ -669,34 +649,6 @@
         "runtimes/win-x86/native/opencv_videoio_ffmpeg451.dll"
       ]
     },
-    "OpenCvSharp4.Windows/4.5.1.20201226": {
-      "sha512": "P2xaSOzGNhfUaqCj3CchWQN8kMmL+f2zXRFTRoNsKAlMJVyW/mpPV5l6z2p4ixFnGJfzmb9Xd9g/lu5dTzmDmw==",
-      "type": "package",
-      "path": "opencvsharp4.windows/4.5.1.20201226",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "opencvsharp4.windows.4.5.1.20201226.nupkg.sha512",
-        "opencvsharp4.windows.nuspec"
-      ]
-    },
-    "OpenCvSharp4.WpfExtensions/4.5.1.20201226": {
-      "sha512": "6BphMYieUEQF4mRikIMEwWTX3jhx9vslG9lIKBD5IzLfG5HnJLzrf3olnC0q9FMR6T8z1vSSGqGMYaVPscAVtQ==",
-      "type": "package",
-      "path": "opencvsharp4.wpfextensions/4.5.1.20201226",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net461/OpenCvSharp.WpfExtensions.dll",
-        "lib/net461/OpenCvSharp.WpfExtensions.xml",
-        "lib/net48/OpenCvSharp.WpfExtensions.dll",
-        "lib/net48/OpenCvSharp.WpfExtensions.xml",
-        "lib/netcoreapp3.1/OpenCvSharp.WpfExtensions.dll",
-        "lib/netcoreapp3.1/OpenCvSharp.WpfExtensions.xml",
-        "opencvsharp4.wpfextensions.4.5.1.20201226.nupkg.sha512",
-        "opencvsharp4.wpfextensions.nuspec"
-      ]
-    },
     "Swashbuckle.AspNetCore/5.6.3": {
       "sha512": "UkL9GU0mfaA+7RwYjEaBFvAzL8qNQhNqAeV5uaWUu/Z+fVgvK9FHkGCpTXBqSQeIHuZaIElzxnLDdIqGzuCnVg==",
       "type": "package",
@@ -938,8 +890,6 @@
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 5.0.1",
       "Microsoft.AspNetCore.Authentication.OpenIdConnect >= 5.0.1",
       "OpenCvSharp4 >= 4.5.1.20201226",
-      "OpenCvSharp4.Windows >= 4.5.1.20201226",
-      "OpenCvSharp4.WpfExtensions >= 4.5.1.20201226",
       "OpenCvSharp4.runtime.win >= 4.5.1.20201226",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
@@ -950,11 +900,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MicroServicesArchitecture\\FaceRecoAPI\\FaceRecoAPI.csproj",
+      "projectUniqueName": "D:\\microservicesarchitecture\\FaceRecoAPI\\FaceRecoAPI.csproj",
       "projectName": "FaceRecoAPI",
-      "projectPath": "D:\\MicroServicesArchitecture\\FaceRecoAPI\\FaceRecoAPI.csproj",
+      "projectPath": "D:\\microservicesarchitecture\\FaceRecoAPI\\FaceRecoAPI.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\MicroServicesArchitecture\\FaceRecoAPI\\obj\\",
+      "outputPath": "D:\\microservicesarchitecture\\FaceRecoAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -998,14 +948,6 @@
             ]
           },
           "OpenCvSharp4": {
-            "target": "Package",
-            "version": "[4.5.1.20201226, )"
-          },
-          "OpenCvSharp4.Windows": {
-            "target": "Package",
-            "version": "[4.5.1.20201226, )"
-          },
-          "OpenCvSharp4.WpfExtensions": {
             "target": "Package",
             "version": "[4.5.1.20201226, )"
           },

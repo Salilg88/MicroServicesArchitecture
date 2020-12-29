@@ -25,7 +25,6 @@ D:\MicroServicesArchitecture\FaceRecoAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
 D:\MicroServicesArchitecture\FaceRecoAPI\bin\Debug\net5.0\OpenCvSharp.Blob.dll
 D:\MicroServicesArchitecture\FaceRecoAPI\bin\Debug\net5.0\OpenCvSharp.Extensions.dll
 D:\MicroServicesArchitecture\FaceRecoAPI\bin\Debug\net5.0\OpenCvSharp.dll
-D:\MicroServicesArchitecture\FaceRecoAPI\bin\Debug\net5.0\OpenCvSharp.WpfExtensions.dll
 D:\MicroServicesArchitecture\FaceRecoAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\MicroServicesArchitecture\FaceRecoAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\MicroServicesArchitecture\FaceRecoAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll

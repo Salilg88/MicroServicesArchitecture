@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MicroServicesArchitecture\\FaceRecoAPI\\FaceRecoAPI.csproj": {}
+    "D:\\microservicesarchitecture\\FaceRecoAPI\\FaceRecoAPI.csproj": {}
   },
   "projects": {
-    "D:\\MicroServicesArchitecture\\FaceRecoAPI\\FaceRecoAPI.csproj": {
+    "D:\\microservicesarchitecture\\FaceRecoAPI\\FaceRecoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MicroServicesArchitecture\\FaceRecoAPI\\FaceRecoAPI.csproj",
+        "projectUniqueName": "D:\\microservicesarchitecture\\FaceRecoAPI\\FaceRecoAPI.csproj",
         "projectName": "FaceRecoAPI",
-        "projectPath": "D:\\MicroServicesArchitecture\\FaceRecoAPI\\FaceRecoAPI.csproj",
+        "projectPath": "D:\\microservicesarchitecture\\FaceRecoAPI\\FaceRecoAPI.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\MicroServicesArchitecture\\FaceRecoAPI\\obj\\",
+        "outputPath": "D:\\microservicesarchitecture\\FaceRecoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,14 +55,6 @@
               ]
             },
             "OpenCvSharp4": {
-              "target": "Package",
-              "version": "[4.5.1.20201226, )"
-            },
-            "OpenCvSharp4.Windows": {
-              "target": "Package",
-              "version": "[4.5.1.20201226, )"
-            },
-            "OpenCvSharp4.WpfExtensions": {
               "target": "Package",
               "version": "[4.5.1.20201226, )"
             },
